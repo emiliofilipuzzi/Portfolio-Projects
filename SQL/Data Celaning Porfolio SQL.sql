@@ -49,7 +49,7 @@ Where a.PropertyAddress is null
 --------------------------------------------------------------------------------------------------------------------------------
 
 --Breaking out adress into Indvidual Columns (Address, City, State)
---Dividir la dirección en columnas individuales (Dirección, Ciudad, Estado)
+--Dividir la direcciÃ³n en columnas individuales (DirecciÃ³n, Ciudad, Estado)
 
 SELECT *
 FROM PortfolioProject..NashvilleHousing
